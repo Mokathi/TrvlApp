@@ -1,0 +1,27 @@
+/*styling an id; use # b4 ID name*/
+/* id styles a specific tag; ignoring the rest*/
+#h01 /*h1#ho1*/{
+    text-align: center;
+}
+/*styling an id; use . b4 ID name */
+/*class styles all tags bearing the same label*/
+.paragraph{
+    font-family: "Courier New";
+    font-size: 18px;
+}
+#my_division{
+    background-color: aqua;
+    margin: 40px;
+    padding: 30px;
+    color: white;
+}
+#my_division2{
+    background-color: blue;
+    margin: 40px;
+    padding: 40px;
+    display: flex;
+}
+#my_division2 img{
+    margin-right: 40px;
+    border-radius: 400px;
+}

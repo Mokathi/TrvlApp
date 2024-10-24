@@ -1,0 +1,12 @@
+h1{
+    color: darkblue;
+    text-align: center;
+    font-size: 90px;
+    background-color: black;
+    line-height: 100px;
+    text-shadow: 12px 4px 12px powderblue;
+}
+
+h1:hover{
+    background-color: darkslateblue;
+}
